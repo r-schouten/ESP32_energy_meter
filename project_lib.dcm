@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADC128S102CIMTX_NOPB
+D 8-Channel, 500 ksps to 1 Msps, 12-Bit A/D Converter
+F http://www.ti.com/lit/ds/symlink/adc128s102.pdf
+$ENDCMP
+#
+$CMP REF2933AIDBZR
+D 3.3V 100ppm/Degrees C, 50uA in SOT23-3 Series (Bandgap) Voltage Reference
+F http://www.ti.com/lit/ds/symlink/ref2912.pdf
+$ENDCMP
+#
+#End Doc Library
